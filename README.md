@@ -4,7 +4,7 @@ Basic app developed to a pre-defined test (See `Tests.cs`)
 Class library that takes several sets of (quantity, item name, price) and outputs them into receipted format when `.ToString()` is called on it.
 
 ## Prerequisites
-None
+.NET Core 3.0 Runtime
 
 ## Usage
 Download this project and add it as a project reference
